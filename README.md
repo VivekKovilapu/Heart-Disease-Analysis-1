@@ -111,16 +111,4 @@ The project transforms complex healthcare datasets into **intuitive dashboards a
 
 ---
 
-### 👤 Author
-
-**Kalavalapudi Naga Kamakshi Sai Prasuna**  
-B.Tech – Computer Science & Engineering 
-Aspiring **Data Analyst & Full Stack Developer**
-
-📧 prasunakalavalapudi@gmail.com  
-🔗 https://www.linkedin.com/in/Prasuna-Kalavalapudi/  
-💻 https://github.com/Prasuna1709  
-
----
-
 > 💡 *“Turning healthcare data into meaningful insights through visualization.”*
